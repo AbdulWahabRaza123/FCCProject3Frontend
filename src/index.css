@@ -1,0 +1,45 @@
+#drum-machine{
+  background-color:antiquewhite;
+  margin-top:170px;
+  margin-left:auto;
+  margin-right:auto;
+  border:1px solid black;
+}
+.drum-pad{
+  margin-left:20px;
+}
+.pads{
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  max-width:70%;
+}
+.drum-pad{
+  color:red;
+  font-weight:bold;
+  font-size:27px;
+  width:150px;
+  height:100px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.pads button:hover{
+  background-color:aqua;
+}
+.show-Instrument p{
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight:bolder;
+  font-family: 'Courier New', Courier, monospace;
+  background-color:aqua;
+  border:1px solid black;
+  width:100px;
+  padding:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.set-width-range{
+  width:50px;
+  margin-left:auto;
+  margin-right:auto;
+}
