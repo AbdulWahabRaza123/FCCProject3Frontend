@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FCCProject3Frontend/static/css/main.3ba68ffb.css",
+    "main.js": "/FCCProject3Frontend/static/js/main.b86b77d3.js",
+    "index.html": "/FCCProject3Frontend/index.html",
+    "main.3ba68ffb.css.map": "/FCCProject3Frontend/static/css/main.3ba68ffb.css.map",
+    "main.b86b77d3.js.map": "/FCCProject3Frontend/static/js/main.b86b77d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba68ffb.css",
+    "static/js/main.b86b77d3.js"
+  ]
+}
